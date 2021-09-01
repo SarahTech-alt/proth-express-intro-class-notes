@@ -1,5 +1,11 @@
 # Express Intro
 
+When you fork and clone, ask these questions?
+  - Do I need a server?
+  - If yes, is there a package.json?
+  - If yes, `npm install`
+  - If no, `npm init --yes` and `npm install express`
+
 ## Full Stack
 
 ### Background
