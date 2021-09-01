@@ -1,4 +1,10 @@
 # Express Intro
+// 
+
+- Add (POST, create)
+- See (GET, read)
+- Delete
+- Edit
 
 When you fork and clone, ask these questions?
   - Do I need a server?
