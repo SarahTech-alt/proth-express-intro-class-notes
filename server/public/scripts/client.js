@@ -10,10 +10,22 @@ function readyNow() {
     getTheTrains();
 }
 
-function getTheTrains() {
-    // Make a request to the server for the trains
-    $.ajax({
-        method: 'GET',
-        url: '/trains',
-    });
-}
+// function getTheTrains() {
+//     // Make a request to the server for the trains
+//     $.ajax({
+//         method: 'GET',
+//         url: '/trains',
+//     }).then(function(response) {
+//         console.log('Success!', response);
+        
+//     });
+//     console.log('After ajax');
+    
+// }
+
+// function handleSuccess(response) {
+//     // response = trains;
+//     console.log('success', response);
+//     // append the data to the DOM
+    
+// }
